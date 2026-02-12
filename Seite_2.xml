@@ -1,4 +1,4 @@
-<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="3.3.0">
  <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -72,7 +72,7 @@
         </msDesc>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
       <editorialDecl>
         <p>
             Bogensignaturen: keine Angabe;
@@ -86,7 +86,7 @@
             Kustoden: keine Angabe;
             langes s (ſ): keine Angabe;
             Normalisierungen: keine Angabe;
-            rundes r (&amp;#xa75b;): keine Angabe;
+            rundes r (ꝛ): keine Angabe;
             Seitenumbrüche markiert: keine Angabe;
             Silbentrennung: keine Angabe;
             u/v bzw. U/V: keine Angabe;
@@ -104,7 +104,7 @@
   </teiHeader>
  <text>
   <body>
-   <p>This is about the shortest TEI document imaginable.</p>
+   <p>1 Aasheim, A. N. Descript pl. rar- e terra Surinam Fragm. m. 5. Tafeln., Dissert. Kopenhag 1776 VIII. Q. 2 Abel Einige neue Monstrosit b. Orchideenbl. S. A.: Z. B. G. Wien. (B. 47) an 41897 II. E. 86. 3 do Zwei für Nied-Oesterr. neue Orchid. S.A.: Z.B.G. Wien. (B.47) an 41897 II. E. 88 4 do Über einige Ophrydeen + 3 angeb. Schriften von Abel S.A.: Z. B. G. Wien. (B. 48) 1898 7058 A II. F. 88 5 do Beobachtungen an Orchideen der Oesterr. flora S. A.: Z. B. G. Wien (B. 48)1898 7058 A II. E. 87 6 Abromeit, Jentzsch &amp;. Vogel Flora von Ost- &amp; West-Preußen Phanerog. 1te Hälfte (Bog. 1-25) 1898 Glasschr. VI fr. IX. B. 52a 7 do d° 1te Hälfte &amp; te Hälfte Teil I Bogen 26-431909 IX. B. 52b.  8 Abromeit Botan. Ergebnisse Grönlandexpedition (Biblioth. botanica, Heft 42) Stuttgardt,1899 VIII A. 8a " Carl Julius Adolph Scharlok 1900 Glaschr. VI hinten unten 9 Adam, J. F. Decades 5 nov. pl. Caucasi et Iberiae quas M. Puschkin observanit  V. D. 26 10 Adanson, M. Famille des plantes, 1te partie, Paris 2te "1763 1768 X. F. 2. 11 Adler, Wilh. Flora des Ziegenrücker Kreises 1819 IX. E. 51 12 Agardh Synopsis generis Pupini 1835 II, A. 65. 1635 A 12a Ägardh, F. G. Vext-Systemets Methodologie. 1858  </p>
   </body>
  </text>
 </TEI>
